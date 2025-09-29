@@ -1,6 +1,6 @@
 
-token = 'token'
-chat_id = 'chatid'
+token = '8363369458:AAH1WL5pzvr7yjQuurHJN6r7f6KdZwHAVVE'
+chat_id = '7223361270'
 
 
 import telebot
