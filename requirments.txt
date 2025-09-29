@@ -1,0 +1,7 @@
+pyTelegramBotAPI        # telebot ka official PyPI name
+requests
+cloudscraper
+pysocks
+httpx
+psutil
+undetected-chromedriver
